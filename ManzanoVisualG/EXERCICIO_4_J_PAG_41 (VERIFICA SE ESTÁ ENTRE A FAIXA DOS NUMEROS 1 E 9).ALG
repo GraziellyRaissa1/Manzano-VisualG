@@ -1,9 +1,9 @@
-Algoritmo "EXERCICIO_4_J_PAG_41 (VERIFICA SE ESTÁ ENTRE a FAIXA DOS NUMEROS 1 E 9)"
+Algoritmo "Exercicio4J_pag_41_Manzano"
 // Disciplina   : [Lógica de Programação com JavaScript]
 // Professor   : Jailson Costa dos Santos 
-// Descrição   : Recebe o numero e retorna se ele está entre 1 e 9
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 17/04/2024
+// Descrição   : ler um numero e retorna se ele está entre 1 e 9
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 08/04/2024
 Var
    numero:inteiro
 Inicio
