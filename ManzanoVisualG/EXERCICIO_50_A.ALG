@@ -1,4 +1,4 @@
-Algoritmo "Quadrado200"
+Algoritmo "Exibir200_Manzano"
 // Disciplina   : Lógica de programação com JavaScript
 // Professor   : Jailson Costa dos Santos
 // Descrição   : Exibir o quadrado dos números inteiros de 15 até 200.
