@@ -1,9 +1,9 @@
-Algoritmo "EXERCICIO_4_I_PAG_41 (PAR OU IMPAR)"
+Algoritmo "Exercicio4I_pag_41_Manzano"
 // Disciplina   : [Lógica de Programação com JavaScript]
 // Professor   : Jailson Costa dos Santos 
-// Descrição   : Recebe um numero inteiro e verifica se é par ou impar
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 04/04/2024
+// Descrição   : ler um numero inteiro e verifica se é par ou impar
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 06/04/2024
 Var
    numero:inteiro
 Inicio
