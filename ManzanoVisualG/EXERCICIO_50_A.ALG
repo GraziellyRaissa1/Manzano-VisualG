@@ -1,15 +1,15 @@
 Algoritmo "Quadrado200"
-// Disciplina   : Lógica de programação com JavaScript
-// Professor   : Jailson
-// Descrição   : Retorna o quadrado dos números inteiros de 15 até 200.
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 15/04/2024
+// Disciplina   : LÃ³gica de programaÃ§Ã£o com JavaScript
+// Professor   : Jailson Costa dos Santos
+// DescriÃ§Ã£o   : Exibir o quadrado dos nÃºmeros inteiros de 15 atÃ© 200.
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 10/04/2024
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    quadrado,contadora: inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    contadora <- 15
 
    repita
