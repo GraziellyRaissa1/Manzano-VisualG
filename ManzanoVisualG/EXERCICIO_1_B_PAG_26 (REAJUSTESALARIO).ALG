@@ -1,6 +1,6 @@
 Algoritmo "ReajusteSalario"
 // Disciplina   : [Lógica de Programação com JavaScript]
-// Professor   : Jailson 
+// Professor   : Jailson Costa dos Santos
 // Descrição   : Reajuste de salário e exibição do valor total com reajuste
 // Autor(a)    : Grazielly Raissa Pereira de souza
 // Data atual  : 19/03/2024
