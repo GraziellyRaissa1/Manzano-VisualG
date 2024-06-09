@@ -1,9 +1,9 @@
-Algoritmo "EXERCICIO_4_H_PAG_41 (IMPRIME O MAIOR E O MENOR)"
+Algoritmo "Exercicio4H_pag_41_Manzano"
 // Disciplina   : [Lógica de Programação com JavaScript]
 // Professor   : Jailson Costa dos Santos 
-// Descrição   : Recebe 5 numeros inteiros e imprime o maior e menor
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 04/04/2024
+// Descrição   : ler 5 numeros inteiros exibir o maior e menor
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 05/04/2024
 Var
    numero1, numero2, numero3, numero4, numero5:inteiro
    menor, maior:inteiro
