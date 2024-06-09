@@ -1,15 +1,15 @@
-Algoritmo "Soma500pares"
-// Disciplina   : Lógica de programação com JavaScript
+Algoritmo "Soma500pares_Manzano"
+// Disciplina   : LÃ³gica de programaÃ§Ã£o com JavaScript
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Retorna a soma dos números pares de 1 até 500.
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 15/04/2024
+// DescriÃ§Ã£o   : Exibir a soma dos nÃºmeros pares de 1 atÃ© 500.
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 10/04/2024
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    contadora, resultado, valor, validacao:inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    contadora <- 1
    repita
       validacao <- contadora % 2
@@ -20,6 +20,6 @@ Inicio
       contadora <- contadora + 1
    ate(contadora > 500)
    
-   escreva ("Soma dos números pares inteiros entre 1 e 500:", resultado)
+   escreva ("Soma dos nÃºmeros pares inteiros entre 1 e 500:", resultado)
 
 Fimalgoritmo
