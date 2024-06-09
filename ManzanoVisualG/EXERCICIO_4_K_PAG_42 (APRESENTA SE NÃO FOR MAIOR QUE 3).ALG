@@ -1,9 +1,9 @@
 Algoritmo "EXERCICIO_4_K_PAG_42"
-// Disciplina   : [LÛgica de ProgramaÁ„o com JavaScript]
+// Disciplina   : [L√≥gica de Programa√ß√£o com JavaScript]
 // Professor   : Jailson Costa dos Santos 
-// DescriÁ„o   : Recebe um valor inteiro e o apresenta se n„o for maior que 3
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 04/04/2024
+// Descri√ß√£o   : ler um valor inteiro e informar se ele n√£o for maior que 3
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 08/04/2024
 Var
    numero:inteiro
 Inicio
