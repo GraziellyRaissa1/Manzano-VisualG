@@ -1,9 +1,9 @@
-Algoritmo "EXERCICIO_4_G_PAG_41 (NUMEROS DIVISVEIS POR 2 E POR 3)"
-// Disciplina   : [LÛgica de ProgramaÁ„o com JavaScript]
+Algoritmo "Exercicio4G_pag_41_Manzano"
+// Disciplina   : [L√≥gica de Programa√ß√£o com JavaScript]
 // Professor   : Jailson Costa dos Santos 
-// DescriÁ„o   : Verifica os numeros que s„o diviseiveis por 2 e por 3
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 04/04/2024
+// Descri√ß√£o   : ler 4 numeros e verifica se eles s√£o diviseiveis por 2 e por 3
+// Autor(a)    : Grazielly Raisa Pereira De Souza
+// Data atual  : 05/04/2024
 Var
 Var
    numero1, numero2, numero3,numero4:Real
@@ -29,24 +29,24 @@ Inicio
 
    Escreval("Numeros divisiveis por 2 e 3:")
    se (numero1 % 2 = 0) e (numero1 % 3 = 0) entao
-      Escreval(numero1," È divisivel por 2 e por 3")
+      Escreval(numero1," √© divisivel por 2 e por 3")
    senao
-      Escreval(numero1," nao È divisivel por 2 e por 3")
+      Escreval(numero1," nao √© divisivel por 2 e por 3")
    fimse
    se (numero2 % 2 = 0) e (numero2 % 3 = 0) entao
-      Escreval(numero2," È divisivel por 2 e por 3")
+      Escreval(numero2," √© divisivel por 2 e por 3")
    senao
-      Escreval(numero2," nao È divisivel por 2 e por 3")
+      Escreval(numero2," nao √© divisivel por 2 e por 3")
    fimse
    se (numero3 % 2 = 0) e (numero3 % 3 = 0) entao
-      Escreval(numero3," È divisivel por 2 e por 3")
+      Escreval(numero3," √© divisivel por 2 e por 3")
    senao
-      Escreval(numero3," nao È divisivel por 2 e por 3")
+      Escreval(numero3," nao √© divisivel por 2 e por 3")
    fimse
    se (numero4 % 2 = 0) e (numero4 % 3 = 0) entao
-      Escreval(numero4," È divisivel por 2 e por 3")
+      Escreval(numero4," √© divisivel por 2 e por 3")
    senao
-      Escreval(numero4," nao È divisivel por 2 e por 3")
+      Escreval(numero4," nao √© divisivel por 2 e por 3")
    fimse
 
 
