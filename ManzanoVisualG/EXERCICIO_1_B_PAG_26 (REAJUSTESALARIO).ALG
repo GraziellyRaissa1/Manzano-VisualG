@@ -1,16 +1,16 @@
 Algoritmo "ReajusteSalario"
-// Disciplina   : [LÛgica de ProgramaÁ„o com JavaScript]
+// Disciplina   : [L√≥gica de Programa√ß√£o com JavaScript]
 // Professor   : Jailson 
-// DescriÁ„o   : Reajuste de sal·rio
-// Autor(a)    : Guilherme Freitas
+// Descri√ß√£o   : Reajuste de sal√°rio e exibi√ß√£o do valor total com reajuste
+// Autor(a)    : Grazielly Raissa Pereira de souza
 // Data atual  : 19/03/2024
 Var
-// SeÁ„o de DeclaraÁıes das vari·veis 
+// Se√ß√£o de Declara√ß√µes das vari√°veis 
 salarioMensal, percentualReajuste, novoSalario:real
 
 Inicio
-// SeÁ„o de Comandos, procedimento, funÁıes, operadores, etc... 
-escreva("Insira o sal·rio:")
+// Se√ß√£o de Comandos, procedimento, fun√ß√µes, operadores, etc... 
+escreva("Insira o sal√°rio:")
 leia(salarioMensal)
 escreva("Insira o valor do percentual de reajuste a ser atribuido:")
 leia(percentualReajuste)
