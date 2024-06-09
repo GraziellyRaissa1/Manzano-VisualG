@@ -1,9 +1,9 @@
-Algoritmo "EXERCICIO_4_C_PAG_41 (MEDIA ALUNO 4 NOTAS)"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo " Exercicio4_Pag_41_Manzano"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson Costa dos Santos 
-// Descrição   : Calcula media de quatro notas do aluno e retorna se foi aprovado ou nao
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 04/04/2024
+// DescriÃ§Ã£o   : Calcula media de quatro notas de um aluno e retornar se ele foi aprovado ou reprovado
+// Autor(a)    : Grazielly Raissa Pereira de Souza
+// Data atual  : 05/04/2024
 Var
    nota1,nota2,nota3,nota4,media:real
 Inicio
