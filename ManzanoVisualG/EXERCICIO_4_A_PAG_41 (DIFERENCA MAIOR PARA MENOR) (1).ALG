@@ -1,8 +1,8 @@
 Algoritmo "EXERCICIO_4_A_PAG_41"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson Costa dos Santos 
-// Descrição   : Realiza o calculo que retorna a diferenca do maior para o menor
-// Autor(a)    : Guilherme Freitas dos Santos
+// DescriÃ§Ã£o   : Realizar um calculo que exiba a diferenca do maior para o menor
+// Autor(a)    : Grazielly Raissa Pereira de souza
 // Data atual  : 04/04/2024
 Var
    numero1,numero2,diferenca:inteiro
