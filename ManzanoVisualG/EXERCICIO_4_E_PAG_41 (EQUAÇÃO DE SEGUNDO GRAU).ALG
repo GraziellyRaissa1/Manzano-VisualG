@@ -1,9 +1,9 @@
-Algoritmo "EXERCICIO_4_E_PAG_41 (EQUAÇÃO DE SEGUNDO GRAU)"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "Exercicio4E_pag_41_Manzano"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Realiza o calculo de uma equação de segundo grau
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 03/04/2024
+// DescriÃ§Ã£o   : Realiza um calculo de uma equaÃ§Ã£o de segundo grau
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 05/04/2024
 
 Var
    numero_A,numero_B,numero_C,delta,resultado_A,resultado_B:real
@@ -18,7 +18,7 @@ Inicio
    leia(numero_C)
    Escreval("")
    se numero_a = 0 entao
-      Escreval("Impossivel fazer a equação de segundo grau")
+      Escreval("Impossivel fazer a equaÃ§Ã£o de segundo grau")
    senao
       delta <- numero_B ^ 2 - 4 * numero_A * numero_C
       se delta < 0 entao
@@ -27,6 +27,6 @@ Inicio
          resultado_A <- (numero_B + raizq(delta)) / (2 * numero_A)
          resultado_B <- (numero_B - raizq(delta)) / (2 * numero_A)
       fimse
-      Escreval("A primeira raiz é:",resultado_A," a segunda raiz é",resultado_B)
+      Escreval("A primeira raiz Ã©:",resultado_A," a segunda raiz Ã©",resultado_B)
    fimse
 Fimalgoritmo
