@@ -1,9 +1,9 @@
 Algoritmo "EXERCICIO_4_B_PAG_41"
-// Disciplina   : [LÛgica de ProgramaÁ„o com JavaScript]
+// Disciplina   : [L√≥gica de Programa√ß√£o com JavaScript]
 // Professor   : Jailson Costa dos Santos 
-// DescriÁ„o   : Transforma um numero negativo em um numero positivo
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 04/04/2024
+// Descri√ß√£o   : Transformar um n√∫mero negativo em um n√∫mero positivo
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 06/04/2024
 Var
    numero1,numero2,calculo:inteiro
 
@@ -16,7 +16,7 @@ Inicio
       calculo <- numero1 * -1
       Escreva("Aqui esta seu valor negativo, transformado em positivo:",calculo)
    senao
-      Escreva("Seu valor È positivo: ",numero1)
+      Escreva("Seu valor √© positivo: ",numero1)
    fimse
 
 
