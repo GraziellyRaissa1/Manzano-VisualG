@@ -1,10 +1,10 @@
-Algoritmo "EXERCICIO_4_D_PAG_41"
-// Disciplina   : [LÛgica de ProgramaÁ„o com JavaScript]
+Algoritmo "Exercicio4D_Pag_41_Manzano"
+// Disciplina   : [L√≥gica de Programa√ß√£o com JavaScript]
 // Professor   : Jailson Costa dos Santos 
-// DescriÁ„o   : Calcula a media de quatro notas do aluno e fala se foi aprovado ou nao
-//               com a condicao se nao atingir a media pode colocar uma nota a mais
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 04/04/2024
+// Descri√ß√£o   : Calcula a media de quatro notas de um aluno e exibir se ele foi aprovado ou reprovado
+//               com a condicao se ele nao atingir a media pode incluir uma nota a mais
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 06/04/2024
 Var
    nota1,nota2,nota3,nota4,media,nota_exame,nova_media:real
 Inicio
@@ -26,7 +26,7 @@ Inicio
 
    media <- (nota1 + nota2 + nota3 + nota4) / 4
 
-   se media >= 7 ent„o
+   se media >= 7 ent√£o
       escreval("O aluno foi aprovado com media ", media)
    senao
       escreva("Digite a nota do exame: ")
@@ -34,7 +34,7 @@ Inicio
 
       nova_media <- (media + nota_exame) / 2
 
-      se nova_media >= 5 ent„o
+      se nova_media >= 5 ent√£o
          escreval("O aluno foi aprovado em exame com media ", nova_media)
       senao
          escreval("O aluno no foi aprovado com media ", nova_media)
