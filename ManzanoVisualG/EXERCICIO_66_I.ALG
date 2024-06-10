@@ -1,15 +1,13 @@
 Algoritmo "Fibonacci"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson Costa dos Santos
-// Descrição   : série de Fibonacci até o 15° termo
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 16/04/2024
+// DescriÃ§Ã£o   : sÃ©rie de Fibonacci atÃ© o 15Â° termo
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 15/04/2024
 Var
-   // Seção de Declarações das variáveis
    contadora, resultado, valor: inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
 
    resultado <- 0
    valor <- 1
