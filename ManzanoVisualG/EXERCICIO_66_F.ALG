@@ -1,15 +1,13 @@
 Algoritmo "Divisiveis4"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Apresenta os valores divisíveis por 4 até 200
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 16/04/2024
+// DescriÃ§Ã£o   : Exibir os valores divisÃ­veis por 4 atÃ© 200
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 15/04/2024
 Var
-   // Seção de Declarações das variáveis
    contadora: inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
    para contadora de 1 ate 200 passo 1 faca
       se contadora % 4 = 0 entao
          escreval (contadora)
