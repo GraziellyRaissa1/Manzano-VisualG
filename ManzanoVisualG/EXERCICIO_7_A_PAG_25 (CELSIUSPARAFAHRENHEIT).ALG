@@ -3,7 +3,7 @@ Algoritmo "CelsiusParaFahrenheit_Manzano"
 // Professor   : Jailson Costa Dos Santos
 // Descrição   : Ler e converter o valor adicionado em  celsius para fahrenheit
 // Autor(a)    : Grazielly Raissa Pereira De Souza
-// Data atual  : 19/03/2024
+// Data atual  : 17/03/2024
 Var 
 celsius:real
 fahrenheit:real
