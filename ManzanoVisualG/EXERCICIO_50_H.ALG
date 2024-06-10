@@ -1,18 +1,16 @@
 Algoritmo "Area"
-// Disciplina   : Lógica de programação com JavaScript
+// Disciplina   : LÃ³gica de programaÃ§Ã£o com JavaScript
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Recebe valores de medida de cômodos e calcula a área de uma casa
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 15/04/2024
+// DescriÃ§Ã£o   : Ler valores de medida de cÃ´modos e calcula a Ã¡rea de uma casa
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 12/04/2024
 Var
-   // Seção de Declarações das variáveis
    comodo,opcao: caractere
    largura,comprimento,total,soma: inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
 
-   escreval("Digite o nome do cômodo:")
+   escreval("Digite o nome do cÃ´modo:")
    leia(comodo)
    escreval("Digite o valor da largura:")
    leia(largura)
@@ -20,7 +18,7 @@ Inicio
    leia(comprimento)
    total <- largura * comprimento
    soma <- soma  + total
-   escreval("Deseja continuar? S - Sim / N - Não")
+   escreval("Deseja continuar? S - Sim / N - NÃ£o")
    leia(opcao)
    se (opcao = "S") ou (opcao = "s") entao
       repita
@@ -32,12 +30,12 @@ Inicio
          leia(comprimento)
          total <- largura * comprimento
          soma <- total + soma
-         escreval("Deseja continuar? S - Sim / N - Não: ")
+         escreval("Deseja continuar? S - Sim / N - NÃ£o: ")
          leia(opcao)
       ate (opcao <> "S") ou (opcao <> "s")
-      escreva("A área da casa é: ",soma)
+      escreva("A Ã¡rea da casa Ã©: ",soma)
    senao
-      escreva("A área da casa é: ",soma)
+      escreva("A Ã¡rea da casa Ã©: ",soma)
    fimse
    
 Fimalgoritmo
