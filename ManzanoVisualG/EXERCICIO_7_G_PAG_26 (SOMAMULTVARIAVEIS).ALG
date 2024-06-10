@@ -1,17 +1,15 @@
-Algoritmo "SomaMultVariaveis"
-// Disciplina   : [Lógica de Programação com JavaScript]
-// Professor   : Jailson
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Guilherme Freitas
+Algoritmo "SomaMultVariaveis_Manzano"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
+// Professor   : Jailson Costa de Snatos
+// DescriÃ§Ã£o   : ler 4 valores e itercalar a soma entre eles
+// Autor(a)    : Grazielly Raissa Pereira De Souza
 // Data atual  : 19/03/2024
 Var
-   // Seção de Declarações das variáveis
    a, b, c, d:inteiro
    soma:inteiro
    mult:inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
    escreval("Insira um valor para A:")
    leia(a)
    escreval("Insira um valor para B:")
