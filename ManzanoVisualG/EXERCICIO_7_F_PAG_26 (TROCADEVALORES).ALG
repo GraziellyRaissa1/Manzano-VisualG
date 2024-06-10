@@ -1,19 +1,16 @@
-Algoritmo "Trocadevalores"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Jailson
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Guilherme Freitas
+Algoritmo "Trocadevalor_Manzano"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com Javascript]
+// Professor   : Jailson Costa Dos Santos
+// DescriÃ§Ã£o   : Ler dois valores e fazer a troca entre eles
+// Autor(a)    : Grazielly Raissa Pereira De Souza
 // Data atual  : 18/03/2024
 Var
-// Seção de Declarações das variáveis
 a, b, c, d: real
 
-
-Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-escreval("Insira o valor da variável A:")
+Inicio 
+escreval("Insira o valor da variÃ¡vel A:")
 leia(a)
-escreval("Insira o valor da variável B:")
+escreval("Insira o valor da variÃ¡vel B:")
 leia(b)
 c <- a
 d <- b
