@@ -1,15 +1,13 @@
-Algoritmo "QuantidadeGraos"
-// Disciplina   : Lógica de programação com JavaScript
+Algoritmo "XadrezGraos_Manzano"
+// Disciplina   : LÃ³gica de programaÃ§Ã£o com JavaScript
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Apresenta o somatório do número de grãos de trigo que se pode obter num tabuleiro de xadrez
-// Autor(a)    : Guilherme Freitas dos Santos
+// DescriÃ§Ã£o   : Exibir a soma do nÃºmero de grÃ£os de trigo que pode obter em um tabuleiro de xadrez
+// Autor(a)    : Grazielly Raissa Pereira De Souza
 // Data atual  : 15/04/2024
 Var
-   // Seção de Declarações das variáveis
    grao,grao_total,contadora:real
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
    contadora <- 1
    grao <- 1
    
