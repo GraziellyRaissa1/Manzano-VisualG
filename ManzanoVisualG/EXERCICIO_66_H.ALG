@@ -1,15 +1,13 @@
 Algoritmo "Potencia"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Recebe valor da base e expoente, e retorna e potenciação
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 16/04/2024
+// DescriÃ§Ã£o   : Ler o valor da base e expoente e reexibir a potenciaÃ§Ã£o
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 15/04/2024
 Var
-   // Seção de Declarações das variáveis
    valor, expoente, resultado, contadora: inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
    escreva ("Digite o valor da base:")
    leia (valor)
 
