@@ -1,16 +1,14 @@
-Algoritmo "MaiorMenor"
-// Disciplina   : Lógica de programação com JavaScript
+Algoritmo "MaiorMenor_Manzano"
+// Disciplina   : LÃ³gica de programaÃ§Ã£o com JavaScript
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Lê valores até receber um negativo, e retorna o maior e o menor
-// Autor(a)    : Guilherme Freitas dos Santos
+// DescriÃ§Ã£o   : Ler valores atÃ© receber um negativo depois retorna o maior e o menor
+// Autor(a)    : Grazielly Raissa Pereira De Souza
 // Data atual  : 13/04/2024
 
 Var
-   // Seção de Declarações das variáveis
    numero, menor, maior:inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
    repita
       escreva("Digite um Numero:")
       leia(numero)
