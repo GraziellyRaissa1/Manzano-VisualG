@@ -1,15 +1,13 @@
-Algoritmo "Fatorial"
-// Disciplina   : Lógica de programação com JavaScript
+Algoritmo "Fatorial_Manzano"
+// Disciplina   : LÃ³gica de programaÃ§Ã£o com JavaScript
 // Professor   : Jailson Costa dos Santos
-// Descrição   : retorna os valores em fatorial do 1 ao 15
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 15/04/2024
+// DescriÃ§Ã£o   : retorna os valores em fatoriaid entre 1 a 15
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 10/04/2024
 Var
-   // Seção de Declarações das variáveis
    contadora, fatorial, valor, soma:inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
    fatorial <- 1
    valor <- 1
    repita
@@ -19,6 +17,6 @@ Inicio
       valor <- valor + 1
       contadora <- contadora + 1
    ate (contadora > 14)
-   escreva("A soma é de:",soma)
+   escreva("A soma Ã© de:",soma)
 
 Fimalgoritmo
