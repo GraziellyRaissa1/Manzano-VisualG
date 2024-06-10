@@ -1,7 +1,7 @@
 Algoritmo "DiferencaQuadrado_Manzano"
 // Disciplina   : [Lógica de Programação com JavaScript]
-// Professor   : Jailson 
-// Descrição   : CLer dois valores e fazer o calculo do quadrado da diferença dos dois valores
+// Professor   : Jailson Costa dos Santos
+// Descrição   : Ler dois valores e fazer o calculo do quadrado da diferença dos dois valores
 // Autor(a)    : Grazielly Raissa Pereira De Souza
 // Data atual  : 19/03/2024
 Var
