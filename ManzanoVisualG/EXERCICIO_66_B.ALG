@@ -1,15 +1,13 @@
 Algoritmo "Tabuada"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Retorna a tabuado do valor inserido até 10
-// Autor(a)    : Guilherme Freitas dos Santos
+// DescriÃ§Ã£o   : Retornar a tabuada do valor inserido atÃ© o nÃºmero 10
+// Autor(a)    : Grazielly Raissa Pereira De Souza
 // Data atual  : 13/04/2024
 Var
-   // Seção de Declarações das variáveis
    valor, contadora, resultado: inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
    escreva ("Digite um valor")
    leia (valor)
 
