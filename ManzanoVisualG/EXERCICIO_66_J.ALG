@@ -1,16 +1,14 @@
-Algoritmo "Conversao"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "Celsius_fahrenheit1010_Manzano"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Conversão de Celsius para Fahrenheit (de 10 em 10)
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 16/04/2024
+// DescriÃ§Ã£o   : Converter Celsius para Fahrenheit de 10 em 10
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 15/04/2024
 Var
-   // Seção de Declarações das variáveis
    contadora: inteiro
    celsius, fahrenheit: real
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
    para contadora de 1 ate 10 faca
 
       celsius <- celsius + 10
