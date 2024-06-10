@@ -1,15 +1,13 @@
-Algoritmo "SomaMedia"
-// Disciplina   : Lógica de programação com JavaScript
+Algoritmo "Soma_mediaAritimetica_Manzano"
+// Disciplina   : LÃ³gica de programaÃ§Ã£o com JavaScript
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Recebe valores enquanto forem positivos, e retorna a soma, e a média aritmética
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 15/04/2024
+// DescriÃ§Ã£o   : Ler os valores que forem positivos, e retorna a soma, e a mÃ©dia aritmÃ©tica
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 10/04/2024
 Var
-   // Seção de Declarações das variáveis
    contadora, numero, soma, media, converter:real
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
    repita
       escreva("Digite um valor (para finalizar insira um valor negativo): ")
       leia(numero)
@@ -23,7 +21,7 @@ Inicio
    contadora <- contadora - 1
    media <- soma / contadora
    
-   escreval("A soma de todos os numero é:",soma)
-   escreval("A media aritmética e", media)
+   escreval("A soma de todos os numero Ã©:",soma)
+   escreval("A media aritmÃ©tica e", media)
 
 Fimalgoritmo
