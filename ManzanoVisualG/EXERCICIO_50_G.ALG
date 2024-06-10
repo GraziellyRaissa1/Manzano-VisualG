@@ -1,16 +1,14 @@
 Algoritmo "EXERCICIO_50_G"
-// Disciplina   : [Lógica de Programação com JavaScript]
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson Costa dos Santos 
-// Descrição   : Este programa calcula e exibe o fatorial dos números ímpares de 1 a 10.
-// Autor(a)    : Guilherme Freitas dos Santos
+// DescriÃ§Ã£o   :Calcular e exibir o fatorial dos nÃºmeros Ã­mpares entre  1 a 10.
+// Autor(a)    : Grazielly Raissa Pereira De Souza
 // Data atual  : 18/04/2024
 Var
-   // Seção de Declarações das variáveis
    valor, fatorial, contador: Inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc...
-   Escreval("Vamos calcular o fatorial dos valores ímpares entre 1 e 10")
+   Escreval("Vamos calcular o fatorial dos valores Ã­mpares entre 1 e 10")
 
    valor <- 1
 
@@ -22,7 +20,7 @@ Inicio
                 fatorial <- fatorial * contador
                 contador <- contador + 1
             Ate contador > valor
-            Escreva("O fatorial de ", valor, " é ", fatorial)
+            Escreva("O fatorial de ", valor, " Ã© ", fatorial)
         FimSe
         valor <- valor + 1
     Ate valor > 10
