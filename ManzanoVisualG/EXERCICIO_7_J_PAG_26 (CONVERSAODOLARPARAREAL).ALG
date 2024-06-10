@@ -1,16 +1,16 @@
-Algoritmo "conversaoDolarParaReal"
-// Disciplina   : [Lógica de Programação com JavaScript]
-// Professor   : Jailson 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Guilherme Freitas
+Algoritmo "DolarParaReal_Manzano"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
+// Professor   : Jailson Costa Dos Santos
+// DescriÃ§Ã£o   :Ler o valor em dolar e converter para real.
+// Autor(a)    : Grazielly Raissa Pereira De Souza
 // Data atual  : 19/03/2024
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 dolares, reais, cotacao:real
 
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
 escreval("Insira o valor da cotacao do dolar atual:")
 leia(cotacao)
 escreval("Qual a quantidade de dolares voce deseja converter?")
