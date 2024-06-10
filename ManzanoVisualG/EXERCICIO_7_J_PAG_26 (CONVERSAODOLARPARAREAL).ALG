@@ -5,12 +5,9 @@ Algoritmo "DolarParaReal_Manzano"
 // Autor(a)    : Grazielly Raissa Pereira De Souza
 // Data atual  : 19/03/2024
 Var
-// Seção de Declarações das variáveis 
 dolares, reais, cotacao:real
 
-
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
 escreval("Insira o valor da cotacao do dolar atual:")
 leia(cotacao)
 escreval("Qual a quantidade de dolares voce deseja converter?")
