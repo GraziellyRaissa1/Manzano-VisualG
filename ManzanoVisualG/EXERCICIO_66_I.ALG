@@ -1,4 +1,4 @@
-Algoritmo "Fibonacci"
+Algoritmo "Fibonacci_Manzano"
 // Disciplina   : [Lógica de Programação com JavaScript]
 // Professor   : Jailson Costa dos Santos
 // Descrição   : série de Fibonacci até o 15° termo
