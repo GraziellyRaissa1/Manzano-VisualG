@@ -1,20 +1,18 @@
-Algoritmo "QuadradoDadiferenca"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "DiferencaQuadrado_Manzano"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson 
-// Descrição   : Calcula o quadrado da diferença dos dois numeros
-// Autor(a)    : Guilherme Freitas
+// DescriÃ§Ã£o   : CLer dois valores e fazer o calculo do quadrado da diferenÃ§a dos dois valores
+// Autor(a)    : Grazielly Raissa Pereira De Souza
 // Data atual  : 19/03/2024
 Var
-// Seção de Declarações das variáveis 
 a, b:inteiro
 potenciacao:real
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
 escreval("Insira o Primeiro valor:")
 leia(a)
 escreval("Insira o Segundo valor:")
 leia(b)
 potenciacao <- (a - b) ^ 2
-escreval("O quadrado da diferença do primeiro e do segundo numero e:", potenciacao)
+escreval("O quadrado da diferenÃ§a do primeiro e do segundo numero e:", potenciacao)
 
 Fimalgoritmo
