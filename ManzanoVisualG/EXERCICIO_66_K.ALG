@@ -1,15 +1,13 @@
-Algoritmo "Fatorial"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "Fatorial_Manzano"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Retorna o fatorial dos números ímpares até 10
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 16/04/2024
+// DescriÃ§Ã£o   : ler e retornar o fatorial dos nÃºmeros Ã­mpares atÃ© 10
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 15/04/2024
 Var
-   // Seção de Declarações das variáveis
    resultado, contadora, contadora2: inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
    resultado <- 1
 
    para contadora de 1 ate 10 passo 1 faca
