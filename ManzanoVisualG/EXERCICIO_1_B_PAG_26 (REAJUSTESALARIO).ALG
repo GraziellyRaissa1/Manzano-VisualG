@@ -1,4 +1,4 @@
-Algoritmo "ReajusteSalario"
+Algoritmo "ReajusteSalario_Manzano"
 // Disciplina   : [Lógica de Programação com JavaScript]
 // Professor   : Jailson Costa dos Santos
 // Descrição   : Reajuste de salário e exibição do valor total com reajuste
