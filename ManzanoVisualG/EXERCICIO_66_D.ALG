@@ -1,15 +1,15 @@
-Algoritmo "500pares"
-// Disciplina   : [Lógica de Programação com JavaScript]
+Algoritmo "500pares_Manzano"
+// Disciplina   : [LÃ³gica de ProgramaÃ§Ã£o com JavaScript]
 // Professor   : Jailson Costa dos Santos
-// Descrição   : Soma dos 500 primeiros números pares inteiros
-// Autor(a)    : Guilherme Freitas dos Santos
-// Data atual  : 16/04/2024
+// DescriÃ§Ã£o   : Exibir a soma dos 500 primeiros nÃºmeros pares inteiros
+// Autor(a)    : Grazielly Raissa Pereira De Souza
+// Data atual  : 15/04/2024
 Var
-   // Seção de Declarações das variáveis
+   // SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
    contadora, soma:inteiro
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc...
    para contadora de 1 ate 500 passo 1 faca
    
       se contadora % 2 = 0 entao
@@ -18,6 +18,6 @@ Inicio
 
    fimpara
 
-   escreva ("Soma dos 500 primeiros números pares inteiros: ", soma)
+   escreva ("Soma dos 500 primeiros nÃºmeros pares inteiros: ", soma)
 
 Fimalgoritmo
