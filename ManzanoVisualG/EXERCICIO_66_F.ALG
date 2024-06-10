@@ -1,4 +1,5 @@
-Algoritmo "Divisiveis4"
+Algoritmo "Divisiveis4_Manzano
+"
 // Disciplina   : [Lógica de Programação com JavaScript]
 // Professor   : Jailson Costa dos Santos
 // Descrição   : Exibir os valores divisíveis por 4 até 200
