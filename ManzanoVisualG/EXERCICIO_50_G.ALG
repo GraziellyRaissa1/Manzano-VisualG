@@ -3,7 +3,7 @@ Algoritmo "EXERCICIO_50_G"
 // Professor   : Jailson Costa dos Santos 
 // Descrição   :Calcular e exibir o fatorial dos números ímpares entre  1 a 10.
 // Autor(a)    : Grazielly Raissa Pereira De Souza
-// Data atual  : 18/04/2024
+// Data atual  : 12/04/2024
 Var
    valor, fatorial, contador: Inteiro
 
